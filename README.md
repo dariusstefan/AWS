@@ -1,7 +1,4 @@
-Nume: Stefan Darius
-Grupă: 324CD
-
-Tema 3: Server web asincron
+Server web asincron
 
 Implementare:
 
